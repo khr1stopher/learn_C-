@@ -1,0 +1,13 @@
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\obj\Debug\netcoreapp3.1\Curso_csharp_3_variables.csprojAssemblyReference.cache
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\obj\Debug\netcoreapp3.1\Curso_csharp_3_variables.AssemblyInfoInputs.cache
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\obj\Debug\netcoreapp3.1\Curso_csharp_3_variables.AssemblyInfo.cs
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\obj\Debug\netcoreapp3.1\Curso_csharp_3_variables.csproj.CoreCompileInputs.cache
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\bin\Debug\netcoreapp3.1\Curso_csharp_3_variables.exe
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\bin\Debug\netcoreapp3.1\Curso_csharp_3_variables.deps.json
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\bin\Debug\netcoreapp3.1\Curso_csharp_3_variables.runtimeconfig.json
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\bin\Debug\netcoreapp3.1\Curso_csharp_3_variables.runtimeconfig.dev.json
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\bin\Debug\netcoreapp3.1\Curso_csharp_3_variables.dll
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\bin\Debug\netcoreapp3.1\Curso_csharp_3_variables.pdb
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\obj\Debug\netcoreapp3.1\Curso_csharp_3_variables.dll
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\obj\Debug\netcoreapp3.1\Curso_csharp_3_variables.pdb
+C:\Users\khristopher\source\repos\Curso_csharp_3_variables\Curso_csharp_3_variables\obj\Debug\netcoreapp3.1\Curso_csharp_3_variables.genruntimeconfig.cache

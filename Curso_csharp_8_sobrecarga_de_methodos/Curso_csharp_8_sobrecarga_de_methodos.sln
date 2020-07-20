@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso_csharp_8_sobrecarga_de_methodos", "Curso_csharp_8_sobrecarga_de_methodos\Curso_csharp_8_sobrecarga_de_methodos.csproj", "{36067569-9A03-4A5C-A0B4-D144FD9FCC34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36067569-9A03-4A5C-A0B4-D144FD9FCC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36067569-9A03-4A5C-A0B4-D144FD9FCC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36067569-9A03-4A5C-A0B4-D144FD9FCC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36067569-9A03-4A5C-A0B4-D144FD9FCC34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {126A24DF-22FE-41D4-AA0A-DC31167DE863}
+	EndGlobalSection
+EndGlobal

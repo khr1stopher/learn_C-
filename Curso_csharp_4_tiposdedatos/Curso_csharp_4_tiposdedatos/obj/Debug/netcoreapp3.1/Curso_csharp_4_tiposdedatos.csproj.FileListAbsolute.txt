@@ -1,0 +1,12 @@
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\bin\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.exe
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\bin\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.deps.json
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\bin\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.runtimeconfig.json
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\bin\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.runtimeconfig.dev.json
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\bin\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.dll
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\bin\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.pdb
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\obj\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.AssemblyInfoInputs.cache
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\obj\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.AssemblyInfo.cs
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\obj\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.csproj.CoreCompileInputs.cache
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\obj\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.dll
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\obj\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.pdb
+C:\Users\khristopher\source\repos\Curso_csharp_4_tiposdedatos\Curso_csharp_4_tiposdedatos\obj\Debug\netcoreapp3.1\Curso_csharp_4_tiposdedatos.genruntimeconfig.cache

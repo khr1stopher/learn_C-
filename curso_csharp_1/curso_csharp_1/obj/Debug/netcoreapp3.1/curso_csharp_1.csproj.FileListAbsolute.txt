@@ -1,0 +1,13 @@
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\bin\Debug\netcoreapp3.1\curso_csharp_1.exe
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\bin\Debug\netcoreapp3.1\curso_csharp_1.deps.json
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\bin\Debug\netcoreapp3.1\curso_csharp_1.runtimeconfig.json
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\bin\Debug\netcoreapp3.1\curso_csharp_1.runtimeconfig.dev.json
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\bin\Debug\netcoreapp3.1\curso_csharp_1.dll
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\bin\Debug\netcoreapp3.1\curso_csharp_1.pdb
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\obj\Debug\netcoreapp3.1\curso_csharp_1.csprojAssemblyReference.cache
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\obj\Debug\netcoreapp3.1\curso_csharp_1.AssemblyInfoInputs.cache
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\obj\Debug\netcoreapp3.1\curso_csharp_1.AssemblyInfo.cs
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\obj\Debug\netcoreapp3.1\curso_csharp_1.csproj.CoreCompileInputs.cache
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\obj\Debug\netcoreapp3.1\curso_csharp_1.dll
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\obj\Debug\netcoreapp3.1\curso_csharp_1.pdb
+C:\Users\khristopher\source\repos\curso_csharp_1\curso_csharp_1\obj\Debug\netcoreapp3.1\curso_csharp_1.genruntimeconfig.cache
